@@ -26,12 +26,12 @@
     python3 encrypt.py
 ```
 
-### 5. Run decrypt
+### 6. Run decrypt
 ```bash
     python3 decrypt.py
 ```
 
-### 6. Deactivate the virtual environment
+### 7. Deactivate the virtual environment
 ```bash
     deactivate
 ```
